@@ -1,0 +1,19 @@
+Payment Received: 60 ILS
+Payment Method: Cash
+
+Receipt Number: 6311
+Payment Received: 45 ILS
+Payment Method: Cash
+
+Receipt Number: 6220
+Payment Received: 60 ILS
+Payment Method: Cash
+
+Receipt Number: 6112
+Payment Received: 45 ILS
+Payment Method: Cash
+
+Receipt Number: 9702
+Payment Received: 45 ILS
+Payment Method: Cash
+
